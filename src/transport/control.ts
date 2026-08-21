@@ -634,12 +634,13 @@ function requiredPeer(entry: ActiveParticipant): LanRoomConnection {
 }
 
 function advertisedUrls(port: number): string[] {
-  const addresses = new Set<string>(['127.0.0.1'])
+  const addresses = new Set<string>()
   for (const rows of Object.values(networkInterfaces())) {
     for (const row of rows ?? []) {
       if (row.family === 'IPv4' && !row.internal) addresses.add(row.address)
     }
   }
+  if (addresses.size === 0) addresses.add('127.0.0.1')
   return [...addresses].map(address => `ws://${address}:${port}/`)
 }
 

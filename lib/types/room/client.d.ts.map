@@ -1,1 +1,1 @@
-{"version":3,"file":"client.d.ts","sourceRoot":"","sources":["../../../src/room/client.ts"],"names":[],"mappings":"AAAA,mEAAmE;AAEnE,YAAY,EACV,WAAW,EACX,WAAW,EACX,SAAS,EACT,qBAAqB,EACrB,YAAY,EACZ,eAAe,GAChB,MAAM,YAAY,CAAA"}
+{"version":3,"file":"client.d.ts","sourceRoot":"","sources":["../../../src/room/client.ts"],"names":[],"mappings":"AAAA,mEAAmE;AACnE,YAAY,EACV,WAAW,EACX,WAAW,EACX,SAAS,EACT,qBAAqB,EACrB,YAAY,EACZ,eAAe,GAChB,MAAM,YAAY,CAAA"}

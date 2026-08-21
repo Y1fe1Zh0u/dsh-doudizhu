@@ -41,7 +41,7 @@
 每个参与者都要把带版本标签的 GitHub 插件安装到自己的 Web Profile：
 
 ```sh
-dsh plugin --profile web add github:Y1fe1Zh0u/dsh-doudizhu#v0.1.0
+dsh plugin --profile web add github:Y1fe1Zh0u/dsh-doudizhu#v0.1.1
 ```
 
 重启 `dsh web`，打开任意会话并进入 `斗地主` 标签页。一人创建房间，另外两人使用页面显示的 `ws://` 地址和六位房间码加入。

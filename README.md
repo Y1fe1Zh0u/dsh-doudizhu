@@ -41,7 +41,7 @@ All DSH and Cordis integrations are exact peer dependencies. This repository doe
 Install the tagged GitHub release into every participant's Web profile:
 
 ```sh
-dsh plugin --profile web add github:Y1fe1Zh0u/dsh-doudizhu#v0.1.0
+dsh plugin --profile web add github:Y1fe1Zh0u/dsh-doudizhu#v0.1.1
 ```
 
 Restart `dsh web`, open a conversation, and select the `斗地主` tab. One participant creates the room; the other two join with the advertised `ws://` address and six-digit code.
