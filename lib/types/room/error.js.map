@@ -1,0 +1,1 @@
+{"version":3,"file":"error.js","sourceRoot":"","sources":["../../../src/room/error.ts"],"names":[],"mappings":"AAAA,oDAAoD;AAIpD,mEAAmE;AACnE,MAAM,OAAO,YAAa,SAAQ,KAAK;IACrC,4CAA4C;IACnC,IAAI,CAAkB;IAE/B,yCAAyC;IACzC,YAAY,OAAe,EAAE,IAAsB;QACjD,KAAK,CAAC,OAAO,CAAC,CAAA;QACd,IAAI,CAAC,IAAI,GAAG,cAAc,CAAA;QAC1B,IAAI,CAAC,IAAI,GAAG,IAAI,CAAA;IAClB,CAAC;CACF"}

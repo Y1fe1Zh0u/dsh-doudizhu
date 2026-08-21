@@ -1,0 +1,1 @@
+{"version":3,"file":"error.d.ts","sourceRoot":"","sources":["../../../src/room/error.ts"],"names":[],"mappings":"AAAA,oDAAoD;AAEpD,OAAO,KAAK,EAAE,gBAAgB,EAAE,MAAM,YAAY,CAAA;AAElD,mEAAmE;AACnE,qBAAa,YAAa,SAAQ,KAAK;IACrC,4CAA4C;IAC5C,QAAQ,CAAC,IAAI,EAAE,gBAAgB,CAAA;IAE/B,yCAAyC;gBAC7B,OAAO,EAAE,MAAM,EAAE,IAAI,EAAE,gBAAgB;CAKpD"}

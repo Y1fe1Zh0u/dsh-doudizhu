@@ -1,0 +1,1 @@
+{"version":3,"file":"invariant.d.ts","sourceRoot":"","sources":["../../../src/persistence/invariant.ts"],"names":[],"mappings":"AAAA,oDAAoD;AAEpD,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,qBAAqB,CAAA;AAMlD,oCAAoC;AACpC,eAAO,MAAM,IAAI,mCAAmC,CAAA;AACpD,qEAAqE;AACrE,eAAO,MAAM,MAAM,UAAiB,CAAA;AAcpC,6DAA6D;AAC7D,eAAO,MAAM,KAAK,GAAI,KAAK,OAAO,KAAG,OAAO,CAAC,MAAM,IAAI,CACU,CAAA"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"invariant.d.ts","sourceRoot":"","sources":["../../../src/doudizhu-runtime/invariant.ts"],"names":[],"mappings":"AAAA,iFAAiF;AAEjF,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,qBAAqB,CAAA;AAMlD,oCAAoC;AACpC,eAAO,MAAM,IAAI,qDAAqD,CAAA;AACtE,8DAA8D;AAC9D,eAAO,MAAM,MAAM,UAAiB,CAAA;AAgBpC,iDAAiD;AACjD,eAAO,MAAM,KAAK,GAAI,KAAK,OAAO,KAAG,OAAO,CAAC,MAAM,IAAI,CACU,CAAA"}

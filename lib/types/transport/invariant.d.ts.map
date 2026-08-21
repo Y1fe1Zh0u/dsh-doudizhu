@@ -1,0 +1,1 @@
+{"version":3,"file":"invariant.d.ts","sourceRoot":"","sources":["../../../src/transport/invariant.ts"],"names":[],"mappings":"AAAA,0FAA0F;AAE1F,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,qBAAqB,CAAA;AAKlD,oCAAoC;AACpC,eAAO,MAAM,IAAI,0BAA0B,CAAA;AAE3C,yEAAyE;AACzE,eAAO,MAAM,MAAM,UAAiB,CAAA;AAKpC,0DAA0D;AAC1D,eAAO,MAAM,KAAK,GAAI,KAAK,OAAO,KAAG,OAAO,CAAC,MAAM,IAAI,CACU,CAAA"}

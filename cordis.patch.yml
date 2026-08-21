@@ -1,0 +1,34 @@
+# Trusted-LAN room authority, transport, hidden Game Sessions, and browser UI.
+
+- insert:
+    - id: lan-game-storage-sqlite
+      name: '@deepseek-ai/dsh-storage-sqlite'
+      config:
+        path: !!js dshHomePath('storages/lan-game.sqlite3')
+
+    - id: lan-room
+      name: 'dsh-doudizhu/room'
+
+    - id: lan-game-agent
+      name: 'dsh-doudizhu/agent'
+
+    - id: lan-game-persistence
+      name: 'dsh-doudizhu/persistence'
+
+    - id: lan-room-transport
+      name: 'dsh-doudizhu/transport'
+
+    - id: lan-game-doudizhu-runtime
+      name: 'dsh-doudizhu/doudizhu-runtime'
+
+    - id: lan-game-ui
+      name: 'dsh-doudizhu'
+
+# Keep the Web profile's human-readable JSON default for other domains while
+# routing the append-heavy LAN match log to its own crash-safe SQLite file.
+- id: storage-domain
+  name: '@deepseek-ai/dsh-storage-domain'
+  config:
+    backend: json
+    routes:
+      lan_game: sqlite
